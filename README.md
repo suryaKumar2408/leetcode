@@ -18,6 +18,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suryaKumar2408/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/suryaKumar2408/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -27,6 +28,7 @@
 | [0061-rotate-list](https://github.com/suryaKumar2408/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/suryaKumar2408/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -47,4 +50,9 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
