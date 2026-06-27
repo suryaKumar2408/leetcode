@@ -65,9 +65,11 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
