@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
