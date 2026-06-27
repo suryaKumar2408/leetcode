@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
+| [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -74,4 +76,12 @@
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/suryaKumar2408/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
+## Greedy
+|  |
+| ------- |
+| [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 <!---LeetCode Topics End-->
