@@ -67,12 +67,14 @@
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/suryaKumar2408/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
@@ -84,4 +86,12 @@
 |  |
 | ------- |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
