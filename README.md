@@ -70,6 +70,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/suryaKumar2408/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/suryaKumar2408/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -98,4 +99,12 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/suryaKumar2408/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/suryaKumar2408/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/suryaKumar2408/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
