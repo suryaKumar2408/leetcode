@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0812-rotate-string](https://github.com/suryaKumar2408/leetcode/tree/master/0812-rotate-string) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/suryaKumar2408/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## String Matching
@@ -112,11 +113,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -127,4 +130,9 @@
 | ------- |
 | [0100-same-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
