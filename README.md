@@ -6,6 +6,7 @@
 | ------- |
 | [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0812-rotate-string](https://github.com/suryaKumar2408/leetcode/tree/master/0812-rotate-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/suryaKumar2408/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## String Matching
 |  |
@@ -107,6 +108,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/suryaKumar2408/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
