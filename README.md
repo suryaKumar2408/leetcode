@@ -7,6 +7,7 @@
 | [0013-roman-to-integer](https://github.com/suryaKumar2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0812-rotate-string](https://github.com/suryaKumar2408/leetcode/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/suryaKumar2408/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 ## String Matching
@@ -109,6 +110,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/suryaKumar2408/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
