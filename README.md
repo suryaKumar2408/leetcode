@@ -129,6 +129,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/suryaKumar2408/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
+| [0783-search-in-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/suryaKumar2408/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
+| [0783-search-in-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suryaKumar2408/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
