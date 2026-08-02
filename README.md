@@ -130,6 +130,7 @@
 | [0226-invert-binary-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | [0226-invert-binary-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -173,4 +175,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
