@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
@@ -74,6 +75,7 @@
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/suryaKumar2408/leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -125,6 +127,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/suryaKumar2408/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -157,6 +160,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0100-same-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/suryaKumar2408/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -181,6 +185,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
