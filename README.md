@@ -11,6 +11,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suryaKumar2408/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/suryaKumar2408/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaKumar2408/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String Matching
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suryaKumar2408/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaKumar2408/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/suryaKumar2408/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 | [1603-running-sum-of-1d-array](https://github.com/suryaKumar2408/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaKumar2408/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/suryaKumar2408/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
