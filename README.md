@@ -82,6 +82,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/suryaKumar2408/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -197,6 +198,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suryaKumar2408/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/suryaKumar2408/leetcode/tree/master/0050-powx-n) |
 ## Counting
 |  |
 | ------- |
