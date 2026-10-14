@@ -65,6 +65,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/suryaKumar2408/leetcode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -238,5 +239,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/suryaKumar2408/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/suryaKumar2408/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
