@@ -84,6 +84,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/suryaKumar2408/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/suryaKumar2408/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/suryaKumar2408/leetcode/tree/master/2050-count-good-numbers) |
 ## Array
@@ -207,6 +208,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/suryaKumar2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/suryaKumar2408/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/suryaKumar2408/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/suryaKumar2408/leetcode/tree/master/2050-count-good-numbers) |
 ## Counting
 |  |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suryaKumar2408/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/suryaKumar2408/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
