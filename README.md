@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suryaKumar2408/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/suryaKumar2408/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/suryaKumar2408/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/suryaKumar2408/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/suryaKumar2408/leetcode/tree/master/2050-count-good-numbers) |
@@ -241,6 +242,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/suryaKumar2408/leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/suryaKumar2408/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/suryaKumar2408/leetcode/tree/master/0191-number-of-1-bits) |
