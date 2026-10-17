@@ -95,6 +95,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/suryaKumar2408/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0137-single-number-ii) |
@@ -120,10 +121,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/suryaKumar2408/leetcode/tree/master/0860-lemonade-change) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
