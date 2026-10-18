@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/suryaKumar2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/suryaKumar2408/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/suryaKumar2408/leetcode/tree/master/0257-binary-tree-paths) |
+| [0678-valid-parenthesis-string](https://github.com/suryaKumar2408/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/suryaKumar2408/leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/suryaKumar2408/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 ## Greedy
 |  |
@@ -132,6 +134,7 @@
 | [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/suryaKumar2408/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/suryaKumar2408/leetcode/tree/master/0860-lemonade-change) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 ## Binary Search
@@ -152,6 +155,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suryaKumar2408/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/suryaKumar2408/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/suryaKumar2408/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/suryaKumar2408/leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -265,4 +269,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/suryaKumar2408/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
