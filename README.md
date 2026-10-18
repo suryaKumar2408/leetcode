@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 ## Recursion
@@ -102,6 +103,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/suryaKumar2408/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/suryaKumar2408/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/suryaKumar2408/leetcode/tree/master/0860-lemonade-change) |
@@ -122,11 +124,13 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/suryaKumar2408/leetcode/tree/master/0860-lemonade-change) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
