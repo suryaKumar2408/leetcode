@@ -48,6 +48,7 @@
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/suryaKumar2408/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/suryaKumar2408/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/suryaKumar2408/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -101,6 +102,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/suryaKumar2408/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/suryaKumar2408/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/suryaKumar2408/leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/suryaKumar2408/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -229,6 +231,7 @@
 | [0013-roman-to-integer](https://github.com/suryaKumar2408/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/suryaKumar2408/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/suryaKumar2408/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/suryaKumar2408/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/suryaKumar2408/leetcode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/suryaKumar2408/leetcode/tree/master/2050-count-good-numbers) |
 ## Counting
