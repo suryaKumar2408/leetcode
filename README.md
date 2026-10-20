@@ -60,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/suryaKumar2408/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suryaKumar2408/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/suryaKumar2408/leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Divide and Conquer
@@ -68,6 +69,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/suryaKumar2408/leetcode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
 | [1503-reducing-dishes](https://github.com/suryaKumar2408/leetcode/tree/master/1503-reducing-dishes) |
@@ -102,6 +105,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/suryaKumar2408/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/suryaKumar2408/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/suryaKumar2408/leetcode/tree/master/0216-combination-sum-iii) |
@@ -237,6 +241,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/suryaKumar2408/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search Tree
 |  |
@@ -276,4 +281,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/suryaKumar2408/leetcode/tree/master/0678-valid-parenthesis-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
