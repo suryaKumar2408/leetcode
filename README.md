@@ -42,6 +42,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suryaKumar2408/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/suryaKumar2408/leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/suryaKumar2408/leetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/suryaKumar2408/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/suryaKumar2408/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -84,6 +85,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suryaKumar2408/leetcode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -103,6 +105,7 @@
 | [0039-combination-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/suryaKumar2408/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/suryaKumar2408/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0137-single-number-ii) |
@@ -279,6 +282,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suryaKumar2408/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/suryaKumar2408/leetcode/tree/master/0455-assign-cookies) |
 ## Bracket Sequences
 |  |
@@ -288,4 +292,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suryaKumar2408/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
