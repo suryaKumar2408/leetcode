@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suryaKumar2408/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/suryaKumar2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/suryaKumar2408/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/suryaKumar2408/leetcode/tree/master/0169-majority-element) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/suryaKumar2408/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suryaKumar2408/leetcode/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/suryaKumar2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/suryaKumar2408/leetcode/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suryaKumar2408/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -135,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/suryaKumar2408/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suryaKumar2408/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/suryaKumar2408/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/suryaKumar2408/leetcode/tree/master/0678-valid-parenthesis-string) |
